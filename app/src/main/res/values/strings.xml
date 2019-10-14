@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tute04</string>
+    <string name="user_management">User Management</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="selectall">Select All</string>
+    <string name="add">Add</string>
+    <string name="signin">Sign in</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
